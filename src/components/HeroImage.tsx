@@ -45,7 +45,7 @@ const HeroImage = () => {
                 transformStyle: 'preserve-3d'
             }}>
             <Image
-                src="/images/hero_image.png"
+                src="/static/images/hero_image.png"
                 alt="Hero Image"
                 width={1000}
                 height={1000}

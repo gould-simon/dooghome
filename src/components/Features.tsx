@@ -7,32 +7,32 @@ const Features = () => {
 
     const features = [
         {
-            imagePath: "/images/First.svg",
+            imagePath: "/static/images/First.svg",
             title: "AI-Assisted Workflow Generation",
             description: "Quickly create workflows tailored to specific tasks with AI recommendations."
         },
         {
-            imagePath: "/images/Second.svg",
+            imagePath: "/static/images/Second.svg",
             title: "Hybrid Visual-Code Interface",
             description: "Combine the ease of visual workflow design with the flexibility of code customization."
         },
         {
-            imagePath: "/images/Third.svg",
+            imagePath: "/static/images/Third.svg",
             title: "Collaboration and Version Control",
             description: "Work seamlessly with team members, track changes, and maintain workflow integrity."
         },
         {
-            imagePath: "/images/Fourth.svg",
+            imagePath: "/static/images/Fourth.svg",
             title: "Approval Processes & Audit Trails",
             description: "Implement multi-level approvals and generate audit trails for every workflow."
         },
         {
-            imagePath: "/images/Fifth.svg",
+            imagePath: "/static/images/Fifth.svg",
             title: "Integration Capabilities",
             description: "Connect with existing accounting software, databases, and cloud services for streamlined operations."
         },
         {
-            imagePath: "/images/Sixth.svg",
+            imagePath: "/static/images/Sixth.svg",
             title: "Templates and Pre-built Workflows",
             description: "Access templates for common tasks to accelerate implementation."
         }

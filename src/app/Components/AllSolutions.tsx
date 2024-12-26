@@ -21,7 +21,7 @@ export default function AllSolutions() {
             heading: "Unlock New Revenue Streams with Advanced Analytics",
             description: "Upskill your accounting firm’s team with Doog AI to offer cutting-edge data analytics services. Deliver high-value insights to your clients and open up new avenues for revenue growth.",
             features: ["Build custom financial analytics solutions without coding", "Offer data-driven consulting services with AI-powered tools", "Create bespoke reporting dashboards to meet client needs"],
-            imagePath: "/images/solutions-1.png"
+            imagePath: "/static/images/solutions-1.png"
 
         },
         {
@@ -29,14 +29,14 @@ export default function AllSolutions() {
             heading: "Transform Your Finance Team's Productivity",
             description: "Leverage Doog AI to empower your in-house finance team. Automate repetitive tasks and focus on strategic initiatives by enhancing efficiency and gaining real-time financial insights.",
             features: ["Automate monthly close reporting to reduce cycle time", "Generate dynamic financial dashboards for informed decision-making", "Streamline cash flow forecasting with AI-driven analytics"],
-            imagePath: "/images/solutions-2.png"
+            imagePath: "/static/images/solutions-2.png"
         },
         {
             title: "Streamline Audit Processes",
             heading: "Enhance Audit Efficiency and Quality",
             description: "Use Doog AI to automate your audit workflows, reducing manual effort and increasing precision. Accelerate audit procedures with AI-powered tools designed to optimize your auditing tasks.",
             features: ["Automate journal entry testing for quicker validations", "Perform seamless three-way matches between invoices, purchase orders, and receipts", "Clean and standardize client data for reliable analysis Note (need to wait for Doog Figma for screenshots)"],
-            imagePath: "/images/solutions-3.png"
+            imagePath: "/static/images/solutions-3.png"
         }
     ]
 

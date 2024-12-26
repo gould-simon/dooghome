@@ -4,6 +4,7 @@ const nextConfig: NextConfig = {
   distDir: "build", //this line will tell the build to create a file with this name
   output: "export", //this line will tell the build to create a file with this name
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',

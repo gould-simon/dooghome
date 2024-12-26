@@ -18,7 +18,7 @@ const NavBar = () => {
         <nav>
             <div className="flex flex-row pt-[35.6px] justify-between mb-[4%]">
                 <div className="flex flex-row">
-                    <Image src="/assets/logo.svg" alt="logo" width={100} height={100} className="md:w-[100px] w-[64px]" />
+                    <Image src="/static/assets/logo.svg" alt="logo" width={100} height={100} className="md:w-[100px] w-[64px]" />
                 </div>
                 <div className="flex flex-row gap-[30px] md:gap-[80px] ">
                     {navItems.map((item, index) => (

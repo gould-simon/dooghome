@@ -12,7 +12,7 @@ const WaitlistCard = () => {
             <WaitlistJoin />
 
 
-            <Image src="/images/Vector.png" alt="Vector" width={732} height={333} className="md:w-[37%] w-[90%] h-auto mt-[32px] md:mt-[10%]" />
+            <Image src="/static/images/Vector.png" alt="Vector" width={732} height={333} className="md:w-[37%] w-[90%] h-auto mt-[32px] md:mt-[10%]" />
 
 
         </div>
