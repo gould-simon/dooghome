@@ -44,7 +44,7 @@ export default function AllSolutions() {
     return (
         <div className="w-[93%]  h-auto rounded-[20px] bg-white shadow-lg p-4 md:p-8 mb-[5%]">
             <div className="flex flex-col">
-                <div className="lg:flex hidden justify-around mb-4">
+                <div className="lg:flex hidden justify-around pb-4">
                     {tabsData.map((tab, index) => (
                         <button
                             key={index}
