@@ -14,6 +14,13 @@ export default function WaitlistJoin() {
             alert('Please enter your email!');
             return;
         }
+        // Email regex pattern
+        const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+
+        if (!emailPattern.test(email)) {
+            alert('Please enter a valid email address!');
+            return;
+        }
 
         setLoading(true);
 
